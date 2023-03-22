@@ -16,11 +16,11 @@
 
 
 ### 🔥 My Stats 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=getlost01&count_private=true&show_icons=true&theme=react)
-![GitHub Streak](https://streak-stats.demolab.com/?user=getlost01&theme=react)
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=hemant2742&count_private=true&show_icons=true&theme=react)
+![GitHub Streak](https://streak-stats.demolab.com/?user=hemant2742&theme=react)
 ![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=hemant2742&theme=react-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemant2742&layout=compact&langs_count=10&theme=react)
-<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=getlost01&theme=react) -->
+<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hemant2742&theme=react) -->
 
 --- 
 
