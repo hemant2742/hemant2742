@@ -10,7 +10,7 @@
 
 **Talking about Personal Stuff:**
 
-- 🌱 Pre-final Year at UIET Kanpur.
+- 🌱 Senior at UIET Kanpur.
 - 💞️ I’m looking to contribute in Frontend Development.
 - 📫 Reach me at shemant820@gmail.com
 
