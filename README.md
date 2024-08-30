@@ -10,8 +10,7 @@
 
 **Talking about Personal Stuff:**
 
-- 🌱 Senior at UIET Kanpur.
-- 💞️ I’m looking to contribute in Frontend Development.
+- 🌱 Software Engineer at Clearout.io.
 - 📫 Reach me at shemant820@gmail.com
 
 
